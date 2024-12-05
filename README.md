@@ -8,3 +8,5 @@ unityとgithub
 ## 5.開発環境構築方法
 unity:2023.2.20f1
 ## 6.その他特記事項
+参考URL：背景3　https://www.shirofan.com/shiro/kinki/osaka/lightup.html  
+　　　　 背景1,2　https://www.osakacastlepark.jp/sports/runningmap.html
